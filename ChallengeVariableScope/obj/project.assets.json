@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\My Drive\\Personal development\\Coding\\CSharpFundamentals\\Foundational-C-Sharp-with-Microsoft-certification-files\\TestProject\\TestProject.csproj",
-      "projectName": "TestProject",
-      "projectPath": "G:\\My Drive\\Personal development\\Coding\\CSharpFundamentals\\Foundational-C-Sharp-with-Microsoft-certification-files\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "G:\\My Drive\\Personal development\\Coding\\CSharpFundamentals\\Foundational-C-Sharp-with-Microsoft-certification-files\\ChallengeVariableScope\\ChallengeVariableScope.csproj",
+      "projectName": "ChallengeVariableScope",
+      "projectPath": "G:\\My Drive\\Personal development\\Coding\\CSharpFundamentals\\Foundational-C-Sharp-with-Microsoft-certification-files\\ChallengeVariableScope\\ChallengeVariableScope.csproj",
       "packagesPath": "C:\\Users\\kenneth.cajigas\\.nuget\\packages\\",
-      "outputPath": "G:\\My Drive\\Personal development\\Coding\\CSharpFundamentals\\Foundational-C-Sharp-with-Microsoft-certification-files\\TestProject\\obj\\",
+      "outputPath": "G:\\My Drive\\Personal development\\Coding\\CSharpFundamentals\\Foundational-C-Sharp-with-Microsoft-certification-files\\ChallengeVariableScope\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kenneth.cajigas\\AppData\\Roaming\\NuGet\\NuGet.Config",

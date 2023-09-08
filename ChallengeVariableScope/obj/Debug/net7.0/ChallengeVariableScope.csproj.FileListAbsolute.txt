@@ -1,0 +1,14 @@
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeVariableScope\obj\Debug\net7.0\ChallengeVariableScope.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeVariableScope\obj\Debug\net7.0\ChallengeVariableScope.AssemblyInfoInputs.cache
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeVariableScope\obj\Debug\net7.0\ChallengeVariableScope.AssemblyInfo.cs
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeVariableScope\obj\Debug\net7.0\ChallengeVariableScope.csproj.CoreCompileInputs.cache
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeVariableScope\bin\Debug\net7.0\ChallengeVariableScope.exe
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeVariableScope\bin\Debug\net7.0\ChallengeVariableScope.deps.json
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeVariableScope\bin\Debug\net7.0\ChallengeVariableScope.runtimeconfig.json
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeVariableScope\bin\Debug\net7.0\ChallengeVariableScope.dll
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeVariableScope\bin\Debug\net7.0\ChallengeVariableScope.pdb
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeVariableScope\obj\Debug\net7.0\ChallengeVariableScope.dll
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeVariableScope\obj\Debug\net7.0\refint\ChallengeVariableScope.dll
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeVariableScope\obj\Debug\net7.0\ChallengeVariableScope.pdb
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeVariableScope\obj\Debug\net7.0\ChallengeVariableScope.genruntimeconfig.cache
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeVariableScope\obj\Debug\net7.0\ref\ChallengeVariableScope.dll

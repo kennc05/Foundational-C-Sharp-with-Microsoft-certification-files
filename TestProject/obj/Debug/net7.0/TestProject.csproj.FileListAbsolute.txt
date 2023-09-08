@@ -12,3 +12,17 @@ C:\Users\kenneth.cajigas\Documents\CsharpProjects\TestProject\obj\Debug\net7.0\r
 C:\Users\kenneth.cajigas\Documents\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.pdb
 C:\Users\kenneth.cajigas\Documents\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.genruntimeconfig.cache
 C:\Users\kenneth.cajigas\Documents\CsharpProjects\TestProject\obj\Debug\net7.0\ref\TestProject.dll
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\TestProject\bin\Debug\net7.0\TestProject.exe
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\TestProject\bin\Debug\net7.0\TestProject.deps.json
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\TestProject\bin\Debug\net7.0\TestProject.runtimeconfig.json
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\TestProject\bin\Debug\net7.0\TestProject.dll
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\TestProject\bin\Debug\net7.0\TestProject.pdb
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\TestProject\obj\Debug\net7.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfoInputs.cache
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfo.cs
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\TestProject\obj\Debug\net7.0\TestProject.csproj.CoreCompileInputs.cache
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\TestProject\obj\Debug\net7.0\TestProject.dll
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\TestProject\obj\Debug\net7.0\refint\TestProject.dll
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\TestProject\obj\Debug\net7.0\TestProject.pdb
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\TestProject\obj\Debug\net7.0\TestProject.genruntimeconfig.cache
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\TestProject\obj\Debug\net7.0\ref\TestProject.dll
