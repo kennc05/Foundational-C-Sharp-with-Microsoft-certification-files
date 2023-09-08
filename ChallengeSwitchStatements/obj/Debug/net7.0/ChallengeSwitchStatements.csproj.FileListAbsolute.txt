@@ -1,0 +1,14 @@
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeSwitchStatements\bin\Debug\net7.0\ChallengeSwitchStatements.exe
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeSwitchStatements\bin\Debug\net7.0\ChallengeSwitchStatements.deps.json
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeSwitchStatements\bin\Debug\net7.0\ChallengeSwitchStatements.runtimeconfig.json
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeSwitchStatements\bin\Debug\net7.0\ChallengeSwitchStatements.dll
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeSwitchStatements\bin\Debug\net7.0\ChallengeSwitchStatements.pdb
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeSwitchStatements\obj\Debug\net7.0\ChallengeSwitchStatements.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeSwitchStatements\obj\Debug\net7.0\ChallengeSwitchStatements.AssemblyInfoInputs.cache
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeSwitchStatements\obj\Debug\net7.0\ChallengeSwitchStatements.AssemblyInfo.cs
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeSwitchStatements\obj\Debug\net7.0\ChallengeSwitchStatements.csproj.CoreCompileInputs.cache
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeSwitchStatements\obj\Debug\net7.0\ChallengeSwitchStatements.dll
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeSwitchStatements\obj\Debug\net7.0\refint\ChallengeSwitchStatements.dll
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeSwitchStatements\obj\Debug\net7.0\ChallengeSwitchStatements.pdb
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeSwitchStatements\obj\Debug\net7.0\ChallengeSwitchStatements.genruntimeconfig.cache
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeSwitchStatements\obj\Debug\net7.0\ref\ChallengeSwitchStatements.dll
