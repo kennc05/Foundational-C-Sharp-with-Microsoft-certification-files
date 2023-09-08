@@ -1,16 +1,23 @@
-﻿int[] numbers = { 4, 8, 15, 16, 23, 42 };
+﻿int employeeLevel = 100;
+string employeeName = "John Smith";
 
-int total = 0;
+string title = "";
 
-foreach (int number in numbers)
+switch (employeeLevel)
 {
-    total += number;
-
-    if (number == 42)
-    {
-        Console.WriteLine("Set contains 42");
-    }
-
+    case 100:
+    case 200:
+        title = "Senior Associate";
+        break;
+    case 300:
+        title = "Manager";
+        break;
+    case 400:
+        title = "Senior Manager";
+        break;
+    default:
+        title = "Associate";
+        break;
 }
 
-Console.WriteLine($"Total: {total}");
+Console.WriteLine($"{employeeName}, {title}");
