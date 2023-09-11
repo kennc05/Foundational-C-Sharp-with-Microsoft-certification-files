@@ -1,0 +1,14 @@
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeFizzBuzz\bin\Debug\net7.0\ChallengeFizzBuzz.exe
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeFizzBuzz\bin\Debug\net7.0\ChallengeFizzBuzz.deps.json
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeFizzBuzz\bin\Debug\net7.0\ChallengeFizzBuzz.runtimeconfig.json
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeFizzBuzz\bin\Debug\net7.0\ChallengeFizzBuzz.dll
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeFizzBuzz\bin\Debug\net7.0\ChallengeFizzBuzz.pdb
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeFizzBuzz\obj\Debug\net7.0\ChallengeFizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeFizzBuzz\obj\Debug\net7.0\ChallengeFizzBuzz.AssemblyInfoInputs.cache
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeFizzBuzz\obj\Debug\net7.0\ChallengeFizzBuzz.AssemblyInfo.cs
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeFizzBuzz\obj\Debug\net7.0\ChallengeFizzBuzz.csproj.CoreCompileInputs.cache
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeFizzBuzz\obj\Debug\net7.0\ChallengeFizzBuzz.dll
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeFizzBuzz\obj\Debug\net7.0\refint\ChallengeFizzBuzz.dll
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeFizzBuzz\obj\Debug\net7.0\ChallengeFizzBuzz.pdb
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeFizzBuzz\obj\Debug\net7.0\ChallengeFizzBuzz.genruntimeconfig.cache
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeFizzBuzz\obj\Debug\net7.0\ref\ChallengeFizzBuzz.dll
