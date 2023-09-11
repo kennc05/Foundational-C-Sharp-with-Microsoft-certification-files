@@ -1,4 +1,8 @@
-﻿int number;
+﻿
+/*
+ Project 1: 
+
+int number;
 string? input;
 
 do
@@ -23,3 +27,33 @@ do
 } while (input != null);
 
 Console.WriteLine($"Your input value ({number}) has been accepted.");
+
+*/
+
+bool inputAccepted = false;
+
+while (!inputAccepted)
+{
+    Console.WriteLine("Enter your role name (Administrator, Manager or User): ");
+    string? input = Console.ReadLine();
+
+    if (input != null)
+    {
+        switch (input.Trim().ToLower())
+        {
+            case "administrator":
+            case "manager":
+            case "user":
+                Console.WriteLine($"Your input value ({input}) has been accepted.");
+                inputAccepted = true;
+                break;
+            default:
+                Console.Write($"The role name that you entered \"{input}\" is not valid. "); 
+                break;
+        }
+    }
+    else
+    {
+        Console.WriteLine("Sorry, you entered an invalid role name, please try again");
+    }
+}
