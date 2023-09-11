@@ -1,0 +1,14 @@
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeDoWhile\bin\Debug\net7.0\ChallengeDoWhile.exe
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeDoWhile\bin\Debug\net7.0\ChallengeDoWhile.deps.json
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeDoWhile\bin\Debug\net7.0\ChallengeDoWhile.runtimeconfig.json
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeDoWhile\bin\Debug\net7.0\ChallengeDoWhile.dll
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeDoWhile\bin\Debug\net7.0\ChallengeDoWhile.pdb
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeDoWhile\obj\Debug\net7.0\ChallengeDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeDoWhile\obj\Debug\net7.0\ChallengeDoWhile.AssemblyInfoInputs.cache
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeDoWhile\obj\Debug\net7.0\ChallengeDoWhile.AssemblyInfo.cs
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeDoWhile\obj\Debug\net7.0\ChallengeDoWhile.csproj.CoreCompileInputs.cache
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeDoWhile\obj\Debug\net7.0\ChallengeDoWhile.dll
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeDoWhile\obj\Debug\net7.0\refint\ChallengeDoWhile.dll
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeDoWhile\obj\Debug\net7.0\ChallengeDoWhile.pdb
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeDoWhile\obj\Debug\net7.0\ChallengeDoWhile.genruntimeconfig.cache
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeDoWhile\obj\Debug\net7.0\ref\ChallengeDoWhile.dll
