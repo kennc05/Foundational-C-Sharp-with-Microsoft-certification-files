@@ -3,7 +3,7 @@
 int heroHealth = 10;
 int monsterHealth = 10;
 
-int attack = random.Next(1, 10);
+int attack = random.Next(1, 11);
 
 do
 {
