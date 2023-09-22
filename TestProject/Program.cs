@@ -1,20 +1,20 @@
-﻿Random random = new Random();
-int current = random.Next(1, 11);
+﻿string[] values = { "12.3", "45", "ABC", "11", "DEF" };
 
-do
+decimal total = 0;
+string message = "";
+
+foreach (string value in values)
 {
-    current = random.Next(1, 11);
+	decimal number;
 
-    if (current >= 8) continue;
-
-    Console.WriteLine(current);
-} while (current != 7);
-
-/*
-while (current >= 3)
-{
-    Console.WriteLine(current);
-    current = random.Next(1, 11);
+	if (decimal.TryParse(value, out number))
+	{
+		total += number;
+	}
+	else
+	{
+		message += value;
+	}
 }
-Console.WriteLine($"Last number: {current}");
-*/
+
+Console.WriteLine($"Message: {message} \nTotal: {total}");

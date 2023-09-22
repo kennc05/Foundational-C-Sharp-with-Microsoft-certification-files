@@ -1,0 +1,14 @@
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeProjectBranchingLooping\Starter\bin\Debug\net7.0\Starter.exe
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeProjectBranchingLooping\Starter\bin\Debug\net7.0\Starter.deps.json
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeProjectBranchingLooping\Starter\bin\Debug\net7.0\Starter.runtimeconfig.json
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeProjectBranchingLooping\Starter\bin\Debug\net7.0\Starter.dll
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeProjectBranchingLooping\Starter\bin\Debug\net7.0\Starter.pdb
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeProjectBranchingLooping\Starter\obj\Debug\net7.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeProjectBranchingLooping\Starter\obj\Debug\net7.0\Starter.AssemblyInfoInputs.cache
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeProjectBranchingLooping\Starter\obj\Debug\net7.0\Starter.AssemblyInfo.cs
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeProjectBranchingLooping\Starter\obj\Debug\net7.0\Starter.csproj.CoreCompileInputs.cache
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeProjectBranchingLooping\Starter\obj\Debug\net7.0\Starter.dll
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeProjectBranchingLooping\Starter\obj\Debug\net7.0\refint\Starter.dll
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeProjectBranchingLooping\Starter\obj\Debug\net7.0\Starter.pdb
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeProjectBranchingLooping\Starter\obj\Debug\net7.0\Starter.genruntimeconfig.cache
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\ChallengeProjectBranchingLooping\Starter\obj\Debug\net7.0\ref\Starter.dll
