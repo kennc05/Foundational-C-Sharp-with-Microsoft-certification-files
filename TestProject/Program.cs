@@ -1,14 +1,18 @@
-﻿int value1 = 12;
-decimal value2 = 6.2m;
-float value3 = 4.3f;
+﻿string pangram = "The quick brown fox jumps over the lazy dog";
 
+string[] pangramArray = pangram.Split(' ');
 
+string[] panagramReversed = new string[pangramArray.Length];
 
-int result1 = Convert.ToInt32((decimal)value1 / value2);
-Console.WriteLine($"Divide value1 by value2, display the result as an int: {result1}");
+int i = 0;
+foreach (string word in pangramArray)
+{
+	char[] wordArray = word.ToCharArray();
+	Array.Reverse(wordArray);
+	panagramReversed[i] = String.Join("", wordArray);
+	i++;
+}
 
-decimal result2 = value2 / (decimal)value3;
-Console.WriteLine($"Divide value2 by value3, display the result as a decimal: {result2}");
+string reversedPangram = string.Join(" ", panagramReversed);
 
-float result3 = value3 / value1;
-Console.WriteLine($"Divide value3 by value1, display the result as a float: {result3}");
+Console.WriteLine(reversedPangram);
