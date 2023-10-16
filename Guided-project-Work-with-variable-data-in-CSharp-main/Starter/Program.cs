@@ -115,7 +115,7 @@ do
                 if (ourAnimals[i, 0] != "ID #: ")
                 {
                     Console.WriteLine();
-                    for (int j = 0; j < 6; j++)
+                    for (int j = 0; j < 7; j++)
                     {
                         Console.WriteLine(ourAnimals[i, j]);
                     }
