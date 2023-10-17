@@ -151,8 +151,9 @@ do
             bool dogMatch = false;
             string dogDescription = "";
             
-            // #4 update to "rotating" animation with countdown
-            string[] searchingIcons = {".  ", ".. ", "..."};
+            // #4 update to "rotating" animation with countdown 
+            // | / -- \ * 
+            string[] searchingIcons = {" | ", " / ", " --", " \\ ", " * "};
 
             // loop ourAnimals array to search for matching animals
             for (int i = 0; i < maxPets; i++)
@@ -167,16 +168,15 @@ do
                     
                     // #3a iterate submitted characteristic terms and search description for each term
                     Array.Sort(dogCharacteristics, (x,y) => String.Compare(x, y));
-
                     foreach (string dogCharacteristic in dogCharacteristics)
                     {
-                        for (int j = 5; j > -1 ; j--)
+                        for (int j = 3; j > -1 ; j--)
                         {
                             // #5 update "searching" message to show countdown 
                             foreach (string icon in searchingIcons)
                             {
-                                Console.Write($"\rsearching...{dogCharacteristic} {icon}");
-                                Thread.Sleep(250);
+                                Console.Write($"\rsearching...{dogCharacteristic} {icon} {j}");
+                                Thread.Sleep(400);
                             }
                             Console.Write($"\r{new String(' ', Console.BufferWidth)}");
                         }
