@@ -1,0 +1,14 @@
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\GuidedProjectVisitPettingZoo\bin\Debug\net7.0\GuidedProjectVisitPettingZoo.exe
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\GuidedProjectVisitPettingZoo\bin\Debug\net7.0\GuidedProjectVisitPettingZoo.deps.json
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\GuidedProjectVisitPettingZoo\bin\Debug\net7.0\GuidedProjectVisitPettingZoo.runtimeconfig.json
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\GuidedProjectVisitPettingZoo\bin\Debug\net7.0\GuidedProjectVisitPettingZoo.dll
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\GuidedProjectVisitPettingZoo\bin\Debug\net7.0\GuidedProjectVisitPettingZoo.pdb
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\GuidedProjectVisitPettingZoo\obj\Debug\net7.0\GuidedProjectVisitPettingZoo.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\GuidedProjectVisitPettingZoo\obj\Debug\net7.0\GuidedProjectVisitPettingZoo.AssemblyInfoInputs.cache
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\GuidedProjectVisitPettingZoo\obj\Debug\net7.0\GuidedProjectVisitPettingZoo.AssemblyInfo.cs
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\GuidedProjectVisitPettingZoo\obj\Debug\net7.0\GuidedProjectVisitPettingZoo.csproj.CoreCompileInputs.cache
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\GuidedProjectVisitPettingZoo\obj\Debug\net7.0\GuidedProjectVisitPettingZoo.dll
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\GuidedProjectVisitPettingZoo\obj\Debug\net7.0\refint\GuidedProjectVisitPettingZoo.dll
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\GuidedProjectVisitPettingZoo\obj\Debug\net7.0\GuidedProjectVisitPettingZoo.pdb
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\GuidedProjectVisitPettingZoo\obj\Debug\net7.0\GuidedProjectVisitPettingZoo.genruntimeconfig.cache
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\GuidedProjectVisitPettingZoo\obj\Debug\net7.0\ref\GuidedProjectVisitPettingZoo.dll
