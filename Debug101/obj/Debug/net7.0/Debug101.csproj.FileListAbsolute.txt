@@ -1,0 +1,14 @@
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\Debug101\bin\Debug\net7.0\Debug101.exe
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\Debug101\bin\Debug\net7.0\Debug101.deps.json
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\Debug101\bin\Debug\net7.0\Debug101.runtimeconfig.json
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\Debug101\bin\Debug\net7.0\Debug101.dll
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\Debug101\bin\Debug\net7.0\Debug101.pdb
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\Debug101\obj\Debug\net7.0\Debug101.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\Debug101\obj\Debug\net7.0\Debug101.AssemblyInfoInputs.cache
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\Debug101\obj\Debug\net7.0\Debug101.AssemblyInfo.cs
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\Debug101\obj\Debug\net7.0\Debug101.csproj.CoreCompileInputs.cache
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\Debug101\obj\Debug\net7.0\Debug101.dll
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\Debug101\obj\Debug\net7.0\refint\Debug101.dll
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\Debug101\obj\Debug\net7.0\Debug101.pdb
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\Debug101\obj\Debug\net7.0\Debug101.genruntimeconfig.cache
+G:\My Drive\Personal development\Coding\CSharpFundamentals\Foundational-C-Sharp-with-Microsoft-certification-files\Debug101\obj\Debug\net7.0\ref\Debug101.dll

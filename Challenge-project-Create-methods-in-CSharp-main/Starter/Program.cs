@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Reflection.Metadata;
 
 Random random = new Random();
 Console.CursorVisible = false;
@@ -27,6 +28,10 @@ int food = 0;
 InitializeGame();
 while (!shouldExit) 
 {
+    if (CheckAppearance2(player))
+    {
+        Move(false, true);
+    }
     Move();
 }
 
@@ -67,10 +72,24 @@ void FreezePlayer()
 }
 
 // Reads directional input from the Console and moves the player
-void Move() 
+void Move(bool nonDirectionalInput = false, bool movementSpeed = false) 
 {
+    // If the Terminal was resized, reinitialize the game
+    if (TerminalResized())
+    {
+        shouldExit = true;
+        Console.Clear();
+        Console.WriteLine("Terminal resized. Program exiting.");
+        return;
+    }
+
     int lastX = playerX;
     int lastY = playerY;
+
+    if (CheckAppearance1(player))
+    {
+        FreezePlayer();
+    }
     
     switch (Console.ReadKey(true).Key) 
     {
@@ -89,6 +108,14 @@ void Move()
 		case ConsoleKey.Escape:     
             shouldExit = true; 
             break;
+
+        default:
+            if (nonDirectionalInput)
+            {
+                shouldExit = true;
+            }
+            break;
+            
     }
 
     // Clear the characters at the previous position
@@ -103,8 +130,42 @@ void Move()
     playerY = (playerY < 0) ? 0 : (playerY >= height ? height : playerY);
 
     // Draw the player at the new location
-    Console.SetCursorPosition(playerX, playerY);
-    Console.Write(player);
+    if (movementSpeed)
+    {
+        Console.SetCursorPosition(playerX + 3, playerY + 3);
+        Console.Write(player);
+    }
+    else
+    {
+        Console.SetCursorPosition(playerX, playerY);
+        Console.Write(player);
+    }
+    
+
+    // If the player has consumed the food, update the player and display new food
+    if (ConsumedFood(playerX, playerY))
+    {
+        ChangePlayer();
+        ShowFood();
+    }
+}
+
+
+bool ConsumedFood(int playerX, int playerY)
+{
+    //UserStringHandle position variable of food and player
+
+    return playerX == foodX && playerY == foodY;
+}
+
+bool CheckAppearance1(string playerState)
+{
+    return playerState == states[2];
+}
+
+bool CheckAppearance2(string playerState)
+{
+        return playerState == states[1];
 }
 
 // Clears the console, displays the food and player
